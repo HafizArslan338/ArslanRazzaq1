@@ -1,0 +1,113 @@
+body
+{
+    margin: 0;
+    text-align: center;
+}
+.Top_Container
+{
+    background-color:rgb(176, 191, 204);
+    width: 100%;
+    height: auto;
+}
+#sp
+{
+   text-decoration: underline;
+}
+#sky1
+{
+    margin-left: 300px;
+}
+#sky2 {
+   
+
+   margin-right: 300px;
+   
+}
+h1
+{
+    margin: 0px auto 40px;
+}
+#heading
+{
+    font-family: 'Montserrat', sans-serif;
+    color: aqua;
+    font-size: 65px;
+
+}
+h2
+{
+        color: aqua;
+            font-family: 'Montserrat', sans-serif;
+        font-weight: 200%;
+}
+#Moun
+{display: flex;
+    width: 28%;
+    height: 28%;
+   margin: auto auto;
+
+}
+
+
+
+
+.Mid
+{
+background-color: rgb(227, 233, 237);
+    width: 100%;
+    height: auto;
+    margin: 0;
+    
+}
+#bod
+{
+clip-path: circle(70px);
+display: inline-block;
+margin:50px auto;
+}
+#exam
+{
+    width: 50%;
+    margin: auto;
+    height: auto;
+    display: inline-block;
+}
+.chi
+{
+clip-path: circle(70px);
+   float: left;
+   
+}
+p{margin-top: 4rem;
+    text-align: left;
+    margin-left: 0;
+    
+}
+#btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 24px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    display: inline-block;
+    margin: 5rem 11rem 2rem ;
+}
+
+#btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+}
